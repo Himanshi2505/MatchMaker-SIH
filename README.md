@@ -7,6 +7,9 @@ For demonstration purposes, we are going to fine-tune the model on a really smal
 Original LayoutLMv2 paper: https://arxiv.org/abs/2012.14740
 
 • Used python, pytorch, Hugging Face
+
 • Similar Dcoument Template Matching for Medical Dataset
+
 • Created small dataset of handwritten and printed medical invoices, prescriptions and lab reports.
+
 • Fine tuned LayoutLMv3 model using weighted cross entropy loss and minibatch gradient descent.
