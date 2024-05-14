@@ -1,4 +1,4 @@
-# MatchMaker-SIH
+# MedMatcher-SIH
 
 In this notebook, we are going to fine-tune LayoutLMv2ForSequenceClassification on the RVL-CDIP dataset (custom medical dataset of invoices, prescriptions and lab reports), which is a document image classification task. Each scanned document in the dataset belongs to one of 16 classes, such as "resume" or "invoice" (so it's a multiclass classification problem). The entire dataset consists of no less than 400,000 (!) scanned documents.
 
